@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Project/Project(0613)/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Project/Project(0613)/app/src/main/res/layout/activity_more_info.xml" value="0.25" />
+        <entry key="..\:/Android/Project/Project(0613)/app/src/main/res/layout/activity_second.xml" value="0.18642350557244175" />
+        <entry key="..\:/Android/Project/Project(0613)/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Android/Project/Project(0613)/app/src/main/res/layout/wordlist_item.xml" value="0.19090909090909092" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/activity_detail.xml" value="0.18642350557244175" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/activity_more_info.xml" value="0.27178318135764945" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/activity_second.xml" value="0.20845997973657548" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/content_main.xml" value="0.1323529411764706" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/fragment_date_picker.xml" value="0.5588541666666667" />
+        <entry key="..\:/Android/Project/Project/app/src/main/res/layout/wordlist_item.xml" value="0.11688311688311688" />
+        <entry key="..\:/Android/Project/android_project/app/src/main/res/layout/activity_main.xml" value="0.47192028985507245" />
+        <entry key="..\:/Android/Project/android_project/app/src/main/res/layout/activity_second.xml" value="0.27178318135764945" />
+        <entry key="..\:/Android/Project/android_project/app/src/main/res/layout/content_main.xml" value="0.38333333333333336" />
+        <entry key="..\:/Android/test/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.27178318135764945" />
+        <entry key="..\:/Android/test/RecyclerView/app/src/main/res/layout/activity_second.xml" value="0.27178318135764945" />
+        <entry key="..\:/Android/test/RecyclerView/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Android/test/RecyclerView/app/src/main/res/layout/fragment_date_picker.xml" value="0.391304347826087" />
+        <entry key="..\:/Android/test/RecyclerView/app/src/main/res/layout/wordlist_item.xml" value="0.11702127659574468" />
+        <entry key="..\:/Users/user/.gradle/caches/transforms-2/files-2.1/d5a7471d3c55fcbb2a793f49551e3314/appcompat-v7-26.1.0/res/layout/support_simple_spinner_dropdown_item.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/drawable/expense_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/drawable/wordlist_item_background.xml" value="0.139" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/activity_delete.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/activity_new.xml" value="0.264" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/activity_second.xml" value="0.264" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/content_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/tab_list_all.xml" value="0.264" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/tab_list_expense.xml" value="0.1125" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/tab_list_income.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/wordlist_item.xml" value="0.4" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/layout/wordlist_item_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Android_Project/Project/app/src/main/res/menu/popup_menu.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/drawable/beauty_background.xml" value="0.185" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/drawable/expense_background.xml" value="0.1315" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/drawable/income_background.xml" value="0.1315" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/drawable/wordlist_item_background.xml" value="0.1315" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/activity_more_info.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/activity_second.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/content_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/tab_list_all.xml" value="0.25" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/tab_list_expense.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/tab_list_income.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/layout/wordlist_item.xml" value="0.33" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/menu/detai_menu1.xml" value="0.209375" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/menu/detail_menu1.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/menu/detail_menu2.xml" value="0.209375" />
+        <entry key="..\:/Users/user/Documents/Android_project/Project/app/src/main/res/menu/menu_main.xml" value="0.1875" />
+        <entry key="..\:/WORKSPACE/Android/Project/app/src/main/res/layout/activity_detail.xml" value="0.5" />
+        <entry key="..\:/WORKSPACE/Android/Project/app/src/main/res/layout/activity_main.xml" value="0.5018115942028986" />
+        <entry key="..\:/WORKSPACE/Android/Project/app/src/main/res/layout/activity_second.xml" value="0.4941123188405797" />
+        <entry key="..\:/WORKSPACE/Project/app/src/main/res/menu/detail_menu1.xml" value="0.19114583333333332" />
+        <entry key="..\:/WORKSPACE/Project/app/src/main/res/menu/detail_menu2.xml" value="0.37135416666666665" />
+        <entry key="..\:/WORKSPACE/Project/app/src/main/res/menu/popup_menu.xml" value="0.37135416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
